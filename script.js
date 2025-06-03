@@ -1,1 +1,1 @@
-alert=('Welcome')
+alert=("Welcome to Barbie's Fabric")
